@@ -21,6 +21,8 @@ Handle with care — or don't.
 
 **[mise](https://github.com/mo3moha/mise)** — Multilingual reservation template. Astro 6 + Cloudflare D1. Three languages, security audited, zero SaaS fees. OSS.
 
+**[relay](https://github.com/mo3moha/relay)** — DJ library bridge. Convert between Rekordbox, Traktor, and M3U. TypeScript CLI.
+
 **[yoyaku.fun](https://yoyaku.fun)** — Reservation SaaS for small shops. Next.js + Supabase. Live.
 
 ---
